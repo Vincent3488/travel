@@ -493,7 +493,7 @@ h6 {
     position: relative;
     padding: 45px 0 30px 0;
     text-align: center;
-    background: #a7f3d0;
+    background: #f87171;
 }
 
 #amenities.home-amenities h2,
@@ -997,7 +997,7 @@ html, body {
 
 /* Booking section styles */
 #booking {
-    background: #f0fdfa;
+    background: #dcfce7;
     position: relative;
     padding: 45px 0 60px 0;
 
@@ -1074,7 +1074,7 @@ footer {
     position: relative;
     text-align: center;
     padding: 45px 0 60px 0;
-    background: #dcfce7;
+    background: #f87171;
 }
 
 #call-us a {
