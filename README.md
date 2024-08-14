@@ -6,7 +6,7 @@ The Travel and Tours Website project is designed to introduce you to front-end w
 
 ## Description
 
-This project involves developing a travel and tours website that allows users to browse and book travel packages. It includes features such as search functionalities, detailed views of travel packages, and a client-side booking system. The goal is to simulate a full-fledged travel booking platform while focusing on front-end development.
+This project involves developing a travel a website that allows users to browse and book travel packages. It includes features such as search functionalitiee and detailed view.
 
 ## Features
 
